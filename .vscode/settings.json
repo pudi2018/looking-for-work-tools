@@ -1,0 +1,5 @@
+{
+    "standard.autoFixOnSave": true,
+    "react.beautify.onSave": true,
+    "react.beautify.formatter":"esformatter"
+}
